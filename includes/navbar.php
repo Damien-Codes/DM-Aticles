@@ -71,7 +71,7 @@
                        
                         <?php endif; ?>
                       
-                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="https://www.linkedin.com/in/maxence-villet-schoumaker/">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="https://www.linkedin.com/in/damien-pino-200280195/">Contact</a></li>
                     </ul>
                 </div>
             </div>
